@@ -1,0 +1,5 @@
+langgraph
+transformers
+sentence-transformers
+faiss-cpu
+torch
