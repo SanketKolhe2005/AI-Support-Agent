@@ -1,0 +1,12 @@
+Question:
+Can a read-only user create API credentials?
+
+Classification:
+answerable
+
+Answer:
+No. Read-only users (Viewers) cannot create API credentials.
+Only Owners and Admins can create or revoke API credentials.
+
+Confidence:
+0.95
