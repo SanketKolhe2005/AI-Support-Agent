@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Can a read-only user create API credentials?"
+  },
+  {
+    "id": 2,
+    "question": "My scheduled exports stopped after I changed my workspace timezone. What should I check?"
+  },
+  {
+    "id": 3,
+    "question": "Help"
+  },
+  {
+    "id": 4,
+    "question": "Refund my subscription."
+  },
+  {
+    "id": 5,
+    "question": "My account has been hacked."
+  }
+]
