@@ -1,0 +1,22 @@
+Question:
+My scheduled exports stopped after I changed my workspace timezone. What should I check?
+
+Classification:
+answerable
+
+Top Retrieved Documents:
+1. 03_workspace_settings_and_timezones.md
+2. 04_scheduled_exports.md
+3. 09_audit_logs.md
+
+Answer:
+Check the workspace timezone settings under Settings > Workspace. If the timezone was changed, review and update your scheduled export configuration because existing recurring schedules may need to be resaved. Also verify that the export schedule is active and review the audit logs for any recent changes.
+
+Confidence:
+0.95
+
+Requires Human:
+False
+
+Reason:
+Answer generated using information retrieved from multiple knowledge base documents.
