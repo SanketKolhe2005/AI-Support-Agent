@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": "CASE-001",
+    "issue": "Scheduled exports stopped after changing workspace timezone.",
+    "resolution": "Verify the workspace timezone under Settings. After changing the timezone, review the export schedule and save it again to apply the new schedule.",
+    "source": "workspace_settings.md"
+  },
+  {
+    "case_id": "CASE-002",
+    "issue": "User could not create API credentials.",
+    "resolution": "Only Owners and Admins can create or revoke API credentials. Viewers and Analysts cannot create API credentials.",
+    "source": "05_api_credentials.md"
+  },
+  {
+    "case_id": "CASE-003",
+    "issue": "User requested a refund.",
+    "resolution": "Refund requests are outside the OrbitDesk knowledge base and should be directed to the billing or support team.",
+    "source": "Out of Scope"
+  },
+  {
+    "case_id": "CASE-004",
+    "issue": "Account security concern.",
+    "resolution": "Security-related issues should be escalated to the support team immediately.",
+    "source": "10_security_and_safe_responses.md"
+  },
+  {
+    "case_id": "CASE-005",
+    "issue": "User provided insufficient information.",
+    "resolution": "Ask the user for additional details before attempting troubleshooting.",
+    "source": "Clarification"
+  }
+]
